@@ -11,6 +11,9 @@ seaborn = "*"
 ipykernel = "*"
 lxml = "*"
 openpyxl = "*"
+plotly-express = "*"
+nbformat = "*"
+jinja2 = "*"
 
 [dev-packages]
 
