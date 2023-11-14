@@ -14,6 +14,7 @@ openpyxl = "*"
 plotly-express = "*"
 nbformat = "*"
 jinja2 = "*"
+dash = "*"
 
 [dev-packages]
 
